@@ -1,0 +1,105 @@
+Subject,Predicate,Object
+I cento passi film,rdf:type,Film
+I cento passi film,dcterms:creator,Marco Tullio Giordana
+I cento passi film,dcterms:publisher,Medusa Film
+I cento passi film,dcterms:title,I cento passi
+I cento passi film,dcterms:subject,Life of Peppino Impastato
+I cento passi film,schema:genre,Biography
+I cento passi film,fabio:hasLanguage,Italian
+I cento passi film,fabio:hasPublicationYear,2000
+I cento passi film,fabio:hasPublicationPlace,Milan
+I cento passi film,rico:isAssociatedWithPlace,Cinisi
+I cento passi song,rdf:type,Song
+I cento passi song,dcterms:creator,Modena City Ramblers
+I cento passi song,dcterms:publisher,BlackOut
+I cento passi song,dcterms:isPartOf,"¡Viva la vida, muera la muerte!"
+I cento passi song,dcterms:title,I cento passi
+I cento passi song,dcterms:subject,Life of Peppino Impastato
+I cento passi song,schema:genre,Combat Folk
+I cento passi song,schema:genre,Folk-Rock
+I cento passi song,fabio:hasLanguage,Italian
+I cento passi song,fabio:hasPublicationYear,2004
+I cento passi song,fabio:hasPublicationPlace,Rubiera
+I cento passi screenplay,rdf:type,Screenplay
+I cento passi screenplay,dcterms:hasFormat,Text
+I cento passi screenplay,dcterms:creator,Marco Tullio Giordana
+I cento passi screenplay,dcterms:contributor,Monica Zappelli
+I cento passi screenplay,dcterms:contributor,Claudio Fava
+I cento passi screenplay,dcterms:publisher,Feltrinelli
+I cento passi screenplay,dcterms:title,I cento passi
+I cento passi screenplay,dcterms:subject,Life of Peppino Impastato
+I cento passi screenplay,schema:genre,Biography
+I cento passi screenplay,fabio:hasLanguage,Italian
+I cento passi screenplay,fabio:hasPublicationYear,2001
+I cento passi screenplay,fabio:hasPublicationPlace,Milan
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",rdf:type,Photograph
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",dcterms:creator,Letizia Battaglia
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",rico:hasOrHadHolder,Museo di Fotografia Contemporanea
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",dcterms:title,"Cinisi, la madre di Giuseppe Impastato con la foto del figlio"
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",dcterms:subject,Felicia Bartolotta
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",dcterms:subject,Giuseppe “Peppino” Impastato
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",dcterms:created,1984
+"Cinisi, la madre di Giuseppe Impastato con la foto del figlio",rico:isAssociatedWithPlace,Cinisi
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",rdf:type,Photograph
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",dcterms:creator,Tommaso Bonaventura
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",dcterms:creator,Alessandro Imbriaco
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",rico:hasOrHadHolder,Museo di Fotografia Contemporanea
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",dcterms:title,Corpi di reato. Cinisi (Palermo) - Strada - Passaggio a livello - Montagna
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",dcterms:subject,Cinisi
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",dcterms:created,2012
+"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato",rico:isAssociatedWithPlace,Cinisi
+"Lunga è la notte: poesie, scritti, documenti",rdf:type,Book
+"Lunga è la notte: poesie, scritti, documenti",dcterms:creator,Giuseppe “Peppino” Impastato
+"Lunga è la notte: poesie, scritti, documenti",dcterms:contributor,Umberto Sabatino
+"Lunga è la notte: poesie, scritti, documenti",dcterms:publisher,Centro Siciliano di Documentazione Impastato
+"Lunga è la notte: poesie, scritti, documenti",dcterms:title,Lunga è la notte
+"Lunga è la notte: poesie, scritti, documenti",dcterms:subject,Mafia
+"Lunga è la notte: poesie, scritti, documenti",dcterms:subject,Communism
+"Lunga è la notte: poesie, scritti, documenti",schema:genre,Poetry
+"Lunga è la notte: poesie, scritti, documenti",fabio:hasLanguage,Italian
+"Lunga è la notte: poesie, scritti, documenti",fabio:hasPublicationYear,2003
+"Lunga è la notte: poesie, scritti, documenti",fabio:hasPublicationPlace,Palermo
+La mafia in casa mia,rdf:type,Book
+La mafia in casa mia,dcterms:creator,Felicia Bartolotta
+La mafia in casa mia,dcterms:contributor,Umberto Sabatino
+La mafia in casa mia,dcterms:contributor,Anna Puglisi
+La mafia in casa mia,dcterms:publisher,La Luna
+La mafia in casa mia,dcterms:title,La mafia in casa mia
+La mafia in casa mia,dcterms:subject,Mafia
+La mafia in casa mia,dcterms:subject,Giuseppe “Peppino” Impastato
+La mafia in casa mia,schema:genre,Biography
+La mafia in casa mia,fabio:hasLanguage,Italian
+La mafia in casa mia,fabio:hasPublicationYear,1986
+La mafia in casa mia,fabio:hasPublicationPlace,Palermo
+"Peppino Impastato, un giullare contro la mafia",rdf:type,Book
+"Peppino Impastato, un giullare contro la mafia",dcterms:creator,Marco Rizzo
+"Peppino Impastato, un giullare contro la mafia",dcterms:creator,Lelio Bonaccorso
+"Peppino Impastato, un giullare contro la mafia",dcterms:publisher,BeccoGiallo
+"Peppino Impastato, un giullare contro la mafia",dcterms:title,Peppino Impastato giullare contro la mafia
+"Peppino Impastato, un giullare contro la mafia",dcterms:subject,Life of Peppino Impastato
+"Peppino Impastato, un giullare contro la mafia",schema:genre,Graphic Novel
+"Peppino Impastato, un giullare contro la mafia",fabio:hasLanguage,Italian
+"Peppino Impastato, un giullare contro la mafia",fabio:hasPublicationYear,2016
+"Peppino Impastato, un giullare contro la mafia",fabio:hasPublicationPlace,Padua
+Peppino Impastato: anatomia di un depistaggio,rdf:type,Book
+Peppino Impastato: anatomia di un depistaggio,dcterms:creator,Commissione Parlamentare Antimafia
+Peppino Impastato: anatomia di un depistaggio,dcterms:contributor,Giovanni Russo Spena
+Peppino Impastato: anatomia di un depistaggio,dcterms:publisher,Editori Riuniti
+Peppino Impastato: anatomia di un depistaggio,dcterms:title,Peppino Impastato: anatomia di un depistaggio: la relazione della Commissione parlamentare antimafia
+Peppino Impastato: anatomia di un depistaggio,dcterms:subject,Murder of Peppino Impastato
+Peppino Impastato: anatomia di un depistaggio,dcterms:subject,Gaetano Badalamenti
+Peppino Impastato: anatomia di un depistaggio,schema:genre,Parliamentary Record
+Peppino Impastato: anatomia di un depistaggio,fabio:hasLanguage,Italian
+Peppino Impastato: anatomia di un depistaggio,fabio:hasPublicationYear,2001
+Peppino Impastato: anatomia di un depistaggio,fabio:hasPublicationPlace,Rome
+"Delitto Impastato, ergastolo a Badalamenti",rdf:type,Fac-simile
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:creator,Lirio Abbate
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:publisher,La Stampa
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:isPartOf,"La Stampa, Venerdì 12 Aprile 2002"
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:title,"Delitto Impastato, ergastolo a Badalamenti"
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:subject,Gaetano Badalamenti
+"Delitto Impastato, ergastolo a Badalamenti",dcterms:subject,Giuseppe “Peppino” Impastato
+"Delitto Impastato, ergastolo a Badalamenti",schema:genre,Article
+"Delitto Impastato, ergastolo a Badalamenti",fabio:hasLanguage,Italian
+"Delitto Impastato, ergastolo a Badalamenti",fabio:hasPublicationYear,2002
+"Delitto Impastato, ergastolo a Badalamenti",fabio:hasPublicationPlace,Turin

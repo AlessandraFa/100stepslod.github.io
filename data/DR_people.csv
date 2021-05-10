@@ -1,0 +1,124 @@
+Subject,Predicate,Object
+Giuseppe “Peppino” Impastato,rdf:type,Person
+Giuseppe “Peppino” Impastato,dbo:birthName,Giuseppe Impastato
+Giuseppe “Peppino” Impastato,dbo:sex,Male
+Giuseppe “Peppino” Impastato,dbo:birthPlace,Cinisi
+Giuseppe “Peppino” Impastato,dbo:deathPlace,Cinisi
+Giuseppe “Peppino” Impastato,dbo:birthDate,1948-01-05
+Giuseppe “Peppino” Impastato,dbo:deathDate,1978-05-09
+Giuseppe “Peppino” Impastato,dbo:deathCause,Murder
+Giuseppe “Peppino” Impastato,core:occupation,Journalist
+Giuseppe “Peppino” Impastato,core:occupation,Activist
+Giuseppe “Peppino” Impastato,core:occupation,Radio Presenter
+Giuseppe “Peppino” Impastato,core:occupation,Writer
+Giuseppe “Peppino” Impastato,foaf:isPrimaryTopicOf,I cento passi
+Giuseppe “Peppino” Impastato,foaf:isPrimaryTopicOf,I cento passi (screenplay)
+Giuseppe “Peppino” Impastato,foaf:isPrimaryTopicOf,"Peppino Impastato, un giullare contro la mafia"
+Giuseppe “Peppino” Impastato,foaf:isPrimaryTopicOf,I cento passi
+Giuseppe “Peppino” Impastato,foaf:isPrimaryTopicOf,La mafia in casa mia
+Giuseppe “Peppino” Impastato,rico:isAuthorOf,"Lunga è la notte: poesie, scritti, documenti"
+Gaetano Badalamenti,rdf:type,Person
+Gaetano Badalamenti,dbo:birthName,Gaetano Badalamenti
+Gaetano Badalamenti,dbo:sex,Male
+Gaetano Badalamenti,dbo:birthPlace,Cinisi
+Gaetano Badalamenti,dbo:deathPlace,Ayer
+Gaetano Badalamenti,dbo:birthDate,1923-09-14
+Gaetano Badalamenti,dbo:deathDate,2004-04-29
+Gaetano Badalamenti,dbo:deathCause,Natural death
+Gaetano Badalamenti,core:occupation,Mafioso
+Gaetano Badalamenti,foaf:isPrimaryTopicOf,"Delitto Impastato, ergastolo a Badalamenti"
+Gaetano Badalamenti,foaf:isPrimaryTopicOf,Peppino Impastato: anatomia di un depistaggio
+Gaetano Badalamenti,core:organization,Cosa Nostra
+Felicia Bartolotta Impastato,rdf:type,Person
+Felicia Bartolotta Impastato,dbo:birthName,Felicia Bartolotta
+Felicia Bartolotta Impastato,dbo:sex,Female
+Felicia Bartolotta Impastato,dbo:birthPlace,Cinisi
+Felicia Bartolotta Impastato,dbo:deathPlace,Cinisi
+Felicia Bartolotta Impastato,dbo:birthDate,1916-05-24
+Felicia Bartolotta Impastato,dbo:deathDate,2004-12-07
+Felicia Bartolotta Impastato,dbo:deathCause,Natural death
+Felicia Bartolotta Impastato,Core:occupation,Activist
+Felicia Bartolotta Impastato,Core:occupation,Writer
+Felicia Bartolotta Impastato,foaf:isPrimaryTopicOf,"Cinisi, la madre di Giuseppe Impastato con la foto del figlio"
+Felicia Bartolotta Impastato,rico:isAuthorOf,La mafia in casa mia
+Marco Tullio Giordana,rdf:type,Person
+Marco Tullio Giordana,dbo:birthName,Marco Tullio Giordana
+Marco Tullio Giordana,dbo:sex,Male
+Marco Tullio Giordana,dbo:birthPlace,Milan
+Marco Tullio Giordana,dbo:birthDate,1950-10-01
+Marco Tullio Giordana,core:occupation,Director
+Marco Tullio Giordana,core:occupation,Screenwriter
+Marco Tullio Giordana,rico:isAuthorOf,I cento passi
+Monica Zappelli,rdf:type,Person
+Monica Zappelli,dbo:birthName,Monica Zappelli
+Monica Zappelli,dbo:sex,Female
+Monica Zappelli,dbo:birthPlace,Pavia
+Monica Zappelli,dbo:birthDate,1966-06-25
+Monica Zappelli,core:occupation,Screenwriter
+Monica Zappelli,rico:isAuthorOf,I cento passi
+Claudio Fava,rdf:type,Person
+Claudio Fava,dbo:birthName,Giovanni Giuseppe Claudio Fava
+Claudio Fava,dbo:sex,Male
+Claudio Fava,dbo:birthPlace,Catania
+Claudio Fava,dbo:birthDate,1957-04-15
+Claudio Fava,core:occupation,Politician
+Claudio Fava,core:occupation,Journalist
+Claudio Fava,core:occupation,Writer
+Claudio Fava,core:occupation,Screenwriter
+Claudio Fava,core:organization,Assemblea Regionale Siciliana
+Claudio Fava,core:organization,Commissione Antimafia dell’ARS
+Claudio Fava,rico:isAuthorOf,I cento passi
+Letizia Battaglia,rdf:type,Person
+Letizia Battaglia,dbo:birthName,Letizia Battaglia
+Letizia Battaglia,dbo:sex,Female
+Letizia Battaglia,dbo:birthPlace,Palermo
+Letizia Battaglia,dbo:birthDate,1935-03-05
+Letizia Battaglia,core:occupation,Photographer
+Letizia Battaglia,core:occupation,Photojournalist
+Letizia Battaglia,core:occupation,Politician
+Letizia Battaglia,rico:isAuthorOf,"Cinisi, la madre di Giuseppe Impastato con la foto del figlio"
+Tommaso Bonaventura,rdf:type,foaf:Person
+Tommaso Bonaventura,dbo:birthName,Tommaso Bonaventura
+Tommaso Bonaventura,dbo:sex,Male
+Tommaso Bonaventura,dbo:birthPlace,Rome
+Tommaso Bonaventura,dbo:birthDate,1969
+Tommaso Bonaventura,core:occupation,Photographer
+Tommaso Bonaventura,rico:isAuthorOf,"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato"
+Alessandro Imbriaco,rdf:type,foaf:Person
+Alessandro Imbriaco,dbo:birthName,Alessandro Imbriaco
+Alessandro Imbriaco,dbo:sex,Male
+Alessandro Imbriaco,dbo:birthPlace,Salerno
+Alessandro Imbriaco,dbo:birthDate,1980
+Alessandro Imbriaco,core:occupation,Photographer
+Alessandro Imbriaco,rico:isAuthorOf,"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato"
+Giovanni Russo Spena,rdf:type,Person
+Giovanni Russo Spena,dbo:birthName,Giovanni Russo Spena
+Giovanni Russo Spena,dbo:sex,Male
+Giovanni Russo Spena,dbo:birthPlace,Acerra
+Giovanni Russo Spena,dbo:birthDate,1945-11-10
+Giovanni Russo Spena,core:occupation,"Politician, Scholar"
+Giovanni Russo Spena,core:organization,Commissione Parlamentare Antimafia (1996-2001)
+Giovanni Russo Spena,rico:isAuthorOf,Peppino Impastato: anatomia di un depistaggio
+Marco Rizzo,rdf:type,Person
+Marco Rizzo,dbo:birthName,Marco Rizzo
+Marco Rizzo,dbo:sex,Male
+Marco Rizzo,dbo:birthPlace,Erice
+Marco Rizzo,dbo:birthDate,1983-10-24
+Marco Rizzo,core:occupation,Cartoonist
+Marco Rizzo,rico:isAuthorOf,"Peppino Impastato, un giullare contro la mafia"
+Lelio Bonaccorso,rdf:type,Person
+Lelio Bonaccorso,dbo:birthName,Lelio Bonaccorso
+Lelio Bonaccorso,dbo:sex,Male
+Lelio Bonaccorso,dbo:birthPlace,Messina
+Lelio Bonaccorso,dbo:birthDate,1982-08-02
+Lelio Bonaccorso,core:occupation,Cartoonist
+Lelio Bonaccorso,core:occupation,Illustrator
+Lelio Bonaccorso,core:occupation,Teacher
+Lelio Bonaccorso,rico:isAuthorOf,"Peppino Impastato, un giullare contro la mafia"
+Lirio Abbate,rdf:type,Person
+Lirio Abbate,dbo:birthName,Lirio Abbate
+Lirio Abbate,dbo:sex,Male
+Lirio Abbate,dbo:birthPlace,Castelbuono
+Lirio Abbate,dbo:birthDate,1971-02-26
+Lirio Abbate,core:occupation,Journalist
+Lirio Abbate,rico:isAuthorOf,"Delitto Impastato, ergastolo a Badalamenti"

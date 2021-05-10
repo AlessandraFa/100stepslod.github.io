@@ -1,0 +1,7 @@
+Property,DC,ISBD,EAD,CWS EN 15907,ICCD-F,MMD
+Location of creation (Where was the item created?),dc:spatial/dc:coverage,"4.1 Place of publication,
+production and/or
+distribution",<geogname>,Country of Reference,LRC,country_recording
+Location of publication (Where was the item published?),dc:spatial/dc:coverage,"4.1 Place of publication,
+production and/or
+distribution",<geogname>,Country of Reference,PDFL,country_recording

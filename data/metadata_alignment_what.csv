@@ -1,0 +1,9 @@
+Property,DC,ISBD,EAD,CWS EN 15907,ICCD-F,MMD
+Title,dc:title,1.1 Title Proper,<title>,Title,SGL,titles/title
+Type,dc:type,01. Content Form,<genreform>,Genre,TSK,id3_genre
+Subject,dc:subject,7.10.2 Note providing a summary,<subject>,Subject terms,SGT,"descriptions/description
+"
+Format,dc:format,0.2 Media Type ,<unittype>,Original format,MTC,"files/file type=""..."""
+Length/Duration,dc:SizeOrDuration,5.1 Extent,<physdesc>,Original length,-,seconds
+Language,dc:language,"7.1.2 Note on nature, scope, form, purpose or language",<langmaterial>,Original language,- (IT),"titles/title lang="""" / lyrics lang="""""
+Identifier,dc:identifier,8.1 Resource Identifier,<unitid>,Identifier,NCT,int_cdid

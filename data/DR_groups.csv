@@ -1,0 +1,14 @@
+Subject,Predicate,Object
+Modena City Ramblers,rdf:type,Band
+Modena City Ramblers,foaf:name,Modena City Ramblers
+Modena City Ramblers,foaf:member,Franco D’Aniello
+Modena City Ramblers,foaf:member,Massimo “Ice” Ghiacci
+Modena City Ramblers,foaf:member,Francesco “Fry” Moneti
+Modena City Ramblers,foaf:member,Davide “Dudu” Morandi
+Modena City Ramblers,foaf:member,Leonardo “Leo” Sgavetti
+Modena City Ramblers,schema:genre,Combat folk
+Modena City Ramblers,schema:genre,Folk rock
+Modena City Ramblers,schema:foundingDate,1991
+Modena City Ramblers,schema:foundingLocation,Modena
+Modena City Ramblers,gndo:periodOfActivity,1991-present
+Modena City Ramblers,mo:produced_work,Modena City Ramblers discography on Wikipedia

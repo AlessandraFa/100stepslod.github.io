@@ -1,0 +1,9 @@
+Question,Predicate,Ontology
+What is the entity type? ,rdf:type,RDF
+What is the name of the location?,dbo:location,DBpedia-OWL
+What is the city of the location?,dbo:locationCity,DBpedia-OWL
+What is the country of the location?,dbo:locationCountry,DBpedia-OWL
+What is the ISO country code of the location?,gn:countryCode,GeoNames
+What is the latitude of the location?,gn:lat,GeoNames
+What is the longitude of the location?,Gn:long,GeoNames
+What are the cultural objects associated with this place?,rico:isPlaceAssociatedWith,RIC-O

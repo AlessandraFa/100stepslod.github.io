@@ -1,0 +1,9 @@
+Question,Predicate,Ontology
+What is the entity type? ,rdf:type,RDF
+What is the group’s name?,foaf:name,FOAF
+Who are the members of the group?,foaf:member,FOAF
+What genre does the band play?,schema:genre,Schema.org
+When the group was born?,schema:foundingDate,Schema.org
+Where the band was founded?,schema:foundingLocation,Schema.org
+What is the period of activity of the band?,gndo:periodOfActivity,GND Ontology
+What are the albums produced by the band?,mo:produced_work,Music Ontology

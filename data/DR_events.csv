@@ -1,0 +1,23 @@
+Subject,Predicate,Object
+Life of Peppino Impastato,rdf:type,Event
+Life of Peppino Impastato,event:involvedAgent,Giuseppe “Peppino” Impastato
+Life of Peppino Impastato,timeline:beginsAtDateTime,1948-01-05
+Life of Peppino Impastato,timeline:endsAtDateTime,1978-05-09
+Life of Peppino Impastato,timeline:duration,P30Y4M5D
+Life of Peppino Impastato,event:atPlace,Cinisi
+Life of Peppino Impastato,foaf:isPrimaryTopicOf,I cento passi
+Life of Peppino Impastato,foaf:isPrimaryTopicOf,I cento passi
+Life of Peppino Impastato,foaf:isPrimaryTopicOf,I cento passi
+Murder of Peppino Impastato,rdf:type,Event
+Murder of Peppino Impastato,event:involvedAgent,Giuseppe “Peppino” Impastato
+Murder of Peppino Impastato,event:involvedAgent,Gaetano Badalamenti
+Murder of Peppino Impastato,rico:isEventAssociatedWith,1978-05-09
+Murder of Peppino Impastato,event:atPlace,Cinisi
+Murder of Peppino Impastato,foaf:isPrimaryTopicOf,"Delitto Impastato, ergastolo a Badalamenti"
+Murder of Peppino Impastato,foaf:isPrimaryTopicOf,Peppino Impastato: anatomia di un depistaggio
+Sentence of Gaetano Badalamenti,rdf:type,Event
+Sentence of Gaetano Badalamenti,event:involvedAgent,Gaetano Badalamenti
+Sentence of Gaetano Badalamenti,rico:isEventAssociatedWith,2002-04-11
+Sentence of Gaetano Badalamenti,event:atPlace,Rome
+Sentence of Gaetano Badalamenti,foaf:isPrimaryTopicOf,"Delitto Impastato, ergastolo a Badalamenti"
+Sentence of Gaetano Badalamenti,foaf:isPrimaryTopicOf,Peppino Impastato: anatomia di un depistaggio

@@ -1,0 +1,15 @@
+Question,Predicate,Ontology
+What is the type of the entity?,rdf:type,RDF
+Who is the author?,dcterms:creator,DCMI Metadata terms
+Who are the contributors?,dcterms:contributor,DCMI Metadata terms
+Who is the publisher?,dcterms:publisher,DCMI Metadata terms
+What is the holding institution?,rico:hasOrHadHolder,RIC-O
+What is the collection of the item?,dcterms:isPartOf,DCMI Metadata terms
+What is the title?,dcterms:title,DCMI Metadata terms
+What is the subject of this item?,dcterms:subject,DCMI Metadata terms
+What is the genre of the cultural object?,schema:genre,Schema.org
+What is the language of the text involved?,fabio:hasLanguage,FaBiO
+What is the date of publication?,fabio:hasPublicationYear,FaBiO
+Where the item was published?,fabio:hasPublicationPlace,FaBiO
+What is the date of creation?,dcterms:created,DCMI Metadata terms
+Where was the item created?,rico:isAssociatedWithPlace,RIC-O

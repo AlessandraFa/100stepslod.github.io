@@ -1,0 +1,128 @@
+@base <https://100stepslod.github.io/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gn: <https://www.geonames.org/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix lcsh: <http://id.loc.gov/authorities/subjects/> . 
+@prefix lcnaf: <http://id.loc.gov/authorities/names> . 
+@prefix lcdgt: <https://id.loc.gov/authorities/demographicTerms/> . 
+@prefix lcgf: <http://id.loc.gov/authorities/lchs:genreForms/> .
+@prefix core: <https://www.bbc.co.uk/ontologies/coreconcepts/> . 
+@prefix rico: <https://www.ica.org/standards/RiC/ontology/> . 
+@prefix owl: <http://www.w3.org/2002/07/owl#> . 
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix viaf: <http://viaf.org/viaf/> .
+@prefix schema: <http://schema.org/> . 
+@prefix fabio: <http://purl.org/spar/fabio> . 
+@prefix event: <http://motools.sourceforge.net/event/> . 
+@prefix wd: <http://www.wikidata.org/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<person/giuseppe-peppino-impastato>
+	a foaf:Person ;
+	dbo:birthName "Giuseppe Impastato"^^xsd:string ;
+	dbo:sex lcdgt:dg2015060003 ;
+	dbo:birthPlace <place/cinisi> ;
+	dbo:deathPlace <place/cinisi> ;
+	dbo:birthDate "1948-01-05"^^xsd:date ;
+	dbo:deathDate "1978-05-09"^^xsd:date ;
+	dbo:deathCause lcsh:sh85088613 ; 	# Murder
+	core:occupation wd:Q1930187 ; 		# Journalist
+	core:occupation wd:Q15253558 ; 		# Activist
+	core:occupation wd:Q2722764 ; 		# Radio Presenter
+	core:occupation wd:Q36180 ; 		# Writer
+	foaf:isPrimaryTopicOf <object/film/cento-passi> ;
+	foaf:isPrimaryTopicOf <object/book/cento-passi> ;
+	foaf:isPrimaryTopicOf <object/book/impastato-giullare-mafia> ;
+	foaf:isPrimaryTopicOf <object/song/cento-passi> ;
+	foaf:isPrimaryTopicOf <object/book/mafia-in-casa-mia> ;
+	rico:isAuthorOf <object/book/poetry/lunga-la-notte> ;
+	owl:sameAs viaf:25411631,wd:Q982793,lcnaf:n95117648 .
+
+<object/film/cento-passi> 
+	a wd:Q11424 ; 	 #Motion Picture
+	dcterms:creator viaf:62651286 ; 	 #Marco Tullio Giordana
+	dcterms:publisher viaf:137552235 ; 	 #Medusa Film
+	dcterms:title "I cento passi"^^xsd:string ;
+	dcterms:subject <person/giuseppe-peppino-impastato> ;
+	schema:genre lcgf:gf2011026089 ; 	 #Biographical films
+	fabio:hasLanguage lcsh:sh85068806 ;
+	fabio:hasPublicationYear "2000"^^xsd:gYear ;
+	fabio:hasPublicationPlace gn:3173435 ; 	 #Milan
+	rico:isAssociatedWithPlace <place/cinisi> ;
+	owl:sameAs wd:Q165183 .
+
+<place/cinisi> 
+	a dbo:Place ;
+	dbo:location gn:2524987 ;
+	dbo:locationCity gn:2523920 ;		#Palermo
+	dbo:locationCountry gn:3175395 ;	#Italy
+	gn:countryCode "IT, ITA, 380"^^xsd:string ;
+	gn:lat "38.0939"^^xsd:decimal ;
+	gn:long "13.0604"^^xsd:decimal ;
+	rico:isAssociatedWith <object/photo/cinisi-felicia-impastato> ;
+	rico:isAssociatedWith <object/photo/cinisi-ferrovia> .
+	
+<event/murder-impastato> 
+	a event:Event ;
+	event:involvedAgent <person/giuseppe-peppino-impastato> ;
+	event:involvedAgent <person/gaetano-badalamenti> ;
+	rico:isEventAssociatedWith "1978-05-09"^^xsd:date ;
+	event:atPlace <place/cinisi> ;
+	foaf:isPrimaryTopicOf <object/article/lastampa/ergastolo-badalamenti-2002-04-11> ;
+	foaf:isPrimaryTopicOf <object/book/impastato-anatomia-depistaggio> .
+	
+<person/gaetano-badalamenti> 
+	a foaf:Person ;
+	dbo:birthName "Gaetano Badalamenti"^^xsd:string ;
+	dbo:sex lcdgt:dg2015060004 ;
+	dbo:birthPlace <place/cinisi> ;
+	dbo:deathPlace gn:2661654 ; 	 #Ayer
+	dbo:birthDate "1923-09-14"^^xsd:date ;
+	dbo:deathDate "2004-04-29"^^xsd:date ;
+	dbo:deathCause wd:Q3739104 ;
+	core:occupation lcdgt:dg2015060169 ;
+	foaf:isPrimaryTopicOf <object/article/lastampa/ergastolo-badalamenti-2002-04-11> ;
+	foaf:isPrimaryTopicOf <object/book/impastato-anatomia-depistaggio> ;
+	core:organization wd:Q1458155 ;		#Sicilian Mafia
+	owl:sameAs viaf:60157691, wd:Q1392499 .
+
+<object/article/lastampa/ergastolo-badalamenti-2002-04-11> 
+	a lcsh:sh85046816;
+	dcterms:creator viaf:243970984 ;
+	dcterms:publisher wd:Q923353 ;		#La Stampa
+	dcterms:isPartOf <object/newspaper/edition/2002-04-12> ;
+	dcterms:title "Delitto Impastato, ergastolo a Badalamenti"^^xsd:string ;
+	dcterms:subject <person/gaetano-badalamenti> ;
+	dcterms:subject <person/giuseppe-peppino-impastato> ;
+	schema:genre schema:NewsArticle ;
+	fabio:hasLanguage lcsh:sh85068806 ;
+	fabio:hasPublicationYear "2002"^^xsd:gYear ;
+	fabio:hasPublicationPlace gn:3165524 .	 #Turin
+	
+<object/photo/cinisi-felicia-impastato> 
+	a lcsh:sh85101195 ;
+	dcterms:creator viaf:114882242 ; 	 #Letizia Battaglia
+	rico:hasOrHadHolder lcnaf:no2005105843 ; 	 #Museo di Fotografia Contemporanea
+	dcterms:title "Cinisi, la madre di Giuseppe Impastato con la foto del figlio"^^xsd:string ;
+	dcterms:subject <person/felicia-impastato> ;
+	dcterms:subject <person/giuseppe-impastato> ;
+	dcterms:created "1984"^^xsd:gYear ;
+	rico:isAssociatedWithPlace <place/cinisi> .
+	
+<person/felicia-impastato> 
+	a foaf:Person ;
+	dbo:birthName "Felicia Bartolotta"^^xsd:string ;
+	dbo:sex lcdgt:dg2015060004 ;
+	dbo:birthPlace <place/cinisi> ;
+	dbo:deathPlace <place/cinisi> ;
+	dbo:birthDate "1916-05-24"^^xsd:date ;
+	dbo:deathDate "2004-12-07"^^xsd:date ;
+	dbo:deathCause wd:Q3739104 ; 	 #natural death
+	core:occupation wd:Q15253558 ; 	 # Activist
+	core:occupation wd:Q36180 ; 	 # Writer
+	foaf:isPrimaryTopicOf <object/photo/cinisi-felicia-impastato> ;
+	rico:isAuthorOf <object/book/mafia-in-casa-mia> ;
+	owl:sameAs wd:Q3742246 .
+	

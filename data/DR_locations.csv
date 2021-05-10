@@ -1,0 +1,10 @@
+Subject,Predicate,Ontology
+Cinisi,rdf:type,Location
+Cinisi,dbo:location,Cinisi
+Cinisi,dbo:locationCity,Palermo
+Cinisi,dbo:locationCountry,Italy
+Cinisi,gn:countryCode,IT
+Cinisi,gn:lat,"38°9'25""92 N"
+Cinisi,gn:long,"13°6'29""52 E"
+Cinisi,rico:isAssociatedWith,"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato"
+Cinisi,rico:isAssociatedWith,"Cinisi, luogo del ritrovamento del corpo di Peppino Impastato"

@@ -1,0 +1,13 @@
+Subject,Predicate,Object
+1948-01-05,rdf:type,Date
+1948-01-05,rdfs:label,1948-01-05
+1948-01-05,eac-cpf:standardDate,YYYY-MM-DD
+1948-01-05,rico:isDateAssociatedWith,Birth of Peppino Impastato
+1978-05-09,rdf:type,Date
+1978-05-09,rdfs:label,1978-05-09
+1978-05-09,eac-cpf:standardDate,YYYY-MM-DD
+1978-05-09,rico:isDateAssociatedWith,Death of Peppino Impastato
+2002-04-11,rdf:type,Date
+2002-04-11,rdfs:label,2002-04-11
+2002-04-11,eac-cpf:standardDate,YYYY-MM-DD
+2002-04-11,rico:isDateAssociatedWith,Sentence of Gaetano Badalamenti

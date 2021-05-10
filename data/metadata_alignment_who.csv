@@ -1,0 +1,8 @@
+Property,DC,ISBD,EAD,CWS EN 15907,ICCD-F,MMD
+Creator (Who is the creator of the item?),dc:creator,"1.4 Statement of
+responsibility relating to
+title ",<author>,"Agent (name, agentType=""author"")",AUT ,artists/artist
+Publisher (Who is responsible for the publication/distribution of the item?),dc:publisher,"4.2 Name of publisher, producer and/or distributor",<publisher>,"Agent (name, agent type=""producer"")",ECP - PDF,publisher
+Contributor (co-author etc.),dc:contributor,"1.4 Statement of
+responsibility relating to
+title ",<author>,/,AUT ,/

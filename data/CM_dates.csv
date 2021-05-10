@@ -1,0 +1,5 @@
+Question,Predicate,Ontology
+What is the entity type?,rdf:type,RDF
+What is the date?,rdfs:label,RDFS
+What is the standard of the date?,eac-cpf:standardDate,EAC-CPF
+What event is associated with this date?,rico:isDateAssociatedWith,RIC-O

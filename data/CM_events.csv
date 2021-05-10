@@ -1,0 +1,10 @@
+Question,Predicate,Ontology
+What is the type of the entity?,rdf:type,RDF
+Who is the agent?,event:involvedAgent,Event
+What is the start date?,timeline:beginsAtDateTime,Timeline
+What is the end date?,timeline:endsAtDateTime,Timeline
+What is the duration?,timeline:duration,Timeline
+What is the location of the event?,event:atPlace,Event
+What date is associated with this event?,"rico:isEventAssociatedWith
+(date)",RIC-O
+How is this event documented?,foaf:isPrimaryTopicOf,FOAF

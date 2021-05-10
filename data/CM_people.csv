@@ -1,0 +1,14 @@
+Question,Predicate,Ontology
+What is the entity type?,rdf:type,RDF
+What is the person’s name?,dbo:birthName,DBpedia-OWL
+What is the person’s gender?,dbo:sex,DBpedia-OWL
+Where was the person born?,dbo:birthPlace,DBpedia-OWL
+Where did the person die?,dbo:deathPlace,DBpedia-OWL
+When was the person born?,dbo:birthDate,DBpedia-OWL
+When did the person die?,dbo:deathDate,DBpedia-OWL
+What is the dead cause?,dbo:deathCause,DBpedia-OWL
+"What is the person's occupation?
+",core:occupation,Core Concepts
+What cultural object is the person related to?,foaf:isPrimaryTopicOf,FOAF
+What group of people is this person a member of?,core:organization,Core Concepts
+What objects has this person created?,rico:isAuthorOf,RIC-O
