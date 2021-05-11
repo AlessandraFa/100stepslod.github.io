@@ -11119,5 +11119,6 @@ div:hover .img-magnifier-glass{
 }
 
 #link-metadata-an:hover {
-  color: black !important;
+	color: black !important;
+ 	font-style: underlined;
 }
