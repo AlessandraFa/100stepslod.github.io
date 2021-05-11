@@ -5,7 +5,7 @@
 @prefix gn: <https://www.geonames.org/> .
 @prefix dbo: <http://dbpedia.org/ontology/> .
 @prefix lcsh: <http://id.loc.gov/authorities/subjects/> . 
-@prefix lcnaf: <http://id.loc.gov/authorities/names> . 
+@prefix lcnaf: <http://id.loc.gov/authorities/names/> . 
 @prefix lcdgt: <https://id.loc.gov/authorities/demographicTerms/> . 
 @prefix lcgf: <http://id.loc.gov/authorities/lchs:genreForms/> .
 @prefix core: <https://www.bbc.co.uk/ontologies/coreconcepts/> . 
@@ -14,7 +14,7 @@
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix viaf: <http://viaf.org/viaf/> .
 @prefix schema: <http://schema.org/> . 
-@prefix fabio: <http://purl.org/spar/fabio> . 
+@prefix fabio: <http://purl.org/spar/fabio/> . 
 @prefix event: <http://motools.sourceforge.net/event/> . 
 @prefix wd: <http://www.wikidata.org/wiki/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
@@ -103,7 +103,7 @@
 	
 <object/photo/cinisi-felicia-impastato> 
 	a lcsh:sh85101195 ;
-	dcterms:creator viaf:114882242 ; 	 #Letizia Battaglia
+	dcterms:creator viaf:114882242 ;		 #Letizia Battaglia
 	rico:hasOrHadHolder lcnaf:no2005105843 ; 	 #Museo di Fotografia Contemporanea
 	dcterms:title "Cinisi, la madre di Giuseppe Impastato con la foto del figlio"^^xsd:string ;
 	dcterms:subject <person/felicia-impastato> ;
@@ -119,7 +119,7 @@
 	dbo:deathPlace <place/cinisi> ;
 	dbo:birthDate "1916-05-24"^^xsd:date ;
 	dbo:deathDate "2004-12-07"^^xsd:date ;
-	dbo:deathCause wd:Q3739104 ; 	 #natural death
+	dbo:deathCause wd:Q3739104 ; 	 # Natural death
 	core:occupation wd:Q15253558 ; 	 # Activist
 	core:occupation wd:Q36180 ; 	 # Writer
 	foaf:isPrimaryTopicOf <object/photo/cinisi-felicia-impastato> ;
